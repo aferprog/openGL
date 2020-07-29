@@ -1,0 +1,2 @@
+D:\projects\engine\x64\Debug\engine.exe
+D:\projects\engine\x64\Debug\engine.pdb
